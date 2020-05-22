@@ -1,6 +1,6 @@
 # anappnewsportal
 
-A new Flutter application.
+An example app implementing bloc pattern for the view models and few other tweaks.
 
 ## Getting Started
 
